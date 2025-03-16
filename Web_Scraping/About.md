@@ -35,21 +35,14 @@ To set up and run this project locally, follow these steps:
    pip install -r requirements.txt
    ```
 
-## Usage
-1. Update the `config.py` file with the target URL and scraping parameters.
-2. Run the script:
-   ```bash
-   python scraper.py
-   ```
-3. The extracted data will be saved in the `output` folder.
 
 ## Example
 Here is an example of how the output data might look:
 ```
 [{
-    "title": "Sample Article",
-    "author": "John Doe",
-    "date": "2025-03-17"
+    "Name": "Hilton",
+    "Rating": "5 Star",
+    "Price": "18000 per day"
 }]
 ```
 
