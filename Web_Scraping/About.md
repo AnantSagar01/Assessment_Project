@@ -40,9 +40,9 @@ To set up and run this project locally, follow these steps:
 Here is an example of how the output data might look:
 ```
 [{
-    "Name": "Hilton",
-    "Rating": "5 Star",
-    "Price": "18000 per day"
+    Name                  	Prices                           Review
+0	Farm stay in Bengaluru	₹21,298 night₹21,298 per night	New place to stayNew
+1	Villa in Bengaluru	   ₹2,579 night₹2,579 per night	   5.0 out of 5 average rating, 14 reviews5.0 (14)
 }]
 ```
 
