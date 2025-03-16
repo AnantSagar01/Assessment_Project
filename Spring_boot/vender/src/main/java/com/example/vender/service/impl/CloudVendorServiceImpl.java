@@ -1,13 +1,19 @@
 package com.example.vender.service.impl;
 
+import java.util.List;
+
+import org.springframework.stereotype.Service;
+
 import com.example.vender.model.CloudVendor;
 import com.example.vender.repository.CloudVenderRepository;
+import com.example.vender.service.CloudVendorService;
 
-public interface CloudVendorServiceImpl implements CloudVendorService {
+@Service
+public class CloudVendorServiceImpl implements CloudVendorService {
 
     CloudVenderRepository cloudVenderRepository;
 
-    public CloudVendorSericeImpl(CloudVenderRepository cloudVenderRepository){
+    public CloudVendorServiceImpl(CloudVenderRepository cloudVenderRepository){
         this.cloudVenderRepository = cloudVenderRepository;
     }
 
@@ -22,18 +28,19 @@ public interface CloudVendorServiceImpl implements CloudVendorService {
         return "Success";
     }
     @Override
-    public String deleteCloudVendor(CloudVendor cloudVendor){
-        cloudVenderRepository.save(cloudVendor);
-        return "Success";
-    }
-    @Override
-    public Cloudvendor getCloudvendor(String cloudVendor){
-        
+    public CloudVendor getcloudVendor(String cloudVendorId) {
         return cloudVenderRepository.findById(cloudVendorId).get();
     }
+
     @Override
-    public List<CloudVendor> getAllCloudVendors(){
-        return  cloudVenderRepository.findAll();
+    public List<CloudVendor> getAllCloudVendors() {
+        return cloudVenderRepository.findAll(); 
+    }
+
+    @Override
+    public String deleteCloudVendor(String cloudVendorId) {
+        cloudVenderRepository.deleteById(cloudVendorId);
+        return "success";
     }
 
 }
