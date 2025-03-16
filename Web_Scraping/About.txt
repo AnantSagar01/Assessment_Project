@@ -1,0 +1,19 @@
+Web Scraping Project
+
+Overview
+This project is a web scraping application designed to extract useful data from https://www.airbnb.co.in/ websites from homes name and price in bangalore using Python and BeautifulSoup.
+The scraped data can be used for various purposes, such as data analysis, automation, and insights generation.
+
+Features
+Extracts data from specified web pages
+Parses and organizes the extracted data
+Saves the data in a structured format (CSV/JSON)
+Handles exceptions and errors gracefully
+Supports dynamic and static web pages
+
+Technologies Used
+Python: Core programming language
+BeautifulSoup: Parsing HTML and extracting data
+Requests: Sending HTTP requests
+Pandas: Data processing and saving
+CSV/JSON: Data storage formats
