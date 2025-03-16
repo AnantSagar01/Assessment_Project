@@ -1,7 +1,5 @@
 package com.example.vender.repository;
 
+public interface CloudVenderRepository {
 
-
-public class CloudVendorRepository{
-    
 }
