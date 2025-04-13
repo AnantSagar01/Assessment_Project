@@ -9,19 +9,26 @@ This repository contains a mini-project demonstrating containerization using **D
 
 ### ✅ Docker Build and Run
 
-![Docker Run](./https://github.com/user-attachments/assets/6ef30251-678d-4809-9fe9-8d7672e7af43)
+#Docker Run
+![Docker Run](https://github.com/user-attachments/assets/6ef30251-678d-4809-9fe9-8d7672e7af43)
+#Docker Hub Repository
 ![Docker Hub Repository](https://github.com/user-attachments/assets/83afca58-88fa-4c0e-836b-60ce198e88ce)
+#Docker Containers UI
 ![Docker Containers UI](https://github.com/user-attachments/assets/6c6a7fe1-1ded-4134-bc02-97d401ba4bc4)
 
 
 ### 🚢 Kubernetes Deployment
 
+#K8s Deployment
 ![K8s Deployment](https://github.com/user-attachments/assets/52283926-4f85-4f64-a9f3-c938d3b313b7)
 
+#K8s Services
 ![K8s Services](https://github.com/user-attachments/assets/edc2d2f6-6fa8-4d90-a5b9-fcce358a9dd1)
 
+#K8s Pods
 ![K8s Pods](https://github.com/user-attachments/assets/c2882ee0-a576-48e2-a9b4-3fe8938decaf)
 
+#K8s UI
 ![K8s UI](https://github.com/user-attachments/assets/713a0fb5-1bdd-49a0-be16-1f033a125bab)
 
 
