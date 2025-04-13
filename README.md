@@ -16,19 +16,21 @@ Welcome to the **Assessment Project** repository. This collection showcases a va
 - **Web_Scraping**:  
   Includes scripts and tools for extracting data from websites, utilizing libraries like BeautifulSoup and Scrapy.
 
+## 🚀 Getting Started
+
+To explore and run the projects:
+
 > # **Note:** Please go through the `About.md` file in each project folder for more detailed information.
 
 ## 🛠 Technologies Used
 
 The projects within this repository utilize a range of technologies:
 
-- **Programming Languages**: Java (65%), Python (21%), JavaScript (1.4%)
-- **Web Technologies**: HTML (6%), CSS (4.8%)
-- **Containerization**: Docker (1.8%)
+- **Programming Languages**: Java, Python, JavaScript
+- **Web Technologies**: HTML, CSS
+- **Containerization**: Docker
 
-## 🚀 Getting Started
 
-To explore and run the projects:
 
 1. **Clone the Repository**:
    ```bash
