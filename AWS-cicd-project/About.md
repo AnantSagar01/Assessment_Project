@@ -1,6 +1,6 @@
 # HTML AWS CI/CD Project 🚀
 
-A simple HTML project to demonstrate CI/CD deployment using **GitHub**, **AWS CodePipeline**, **CodeBuild**, and **Amazon S3** (static website hosting) — all within the AWS Free Tier.
+A simple HTML project to demonstrate CI/CD deployment using **GitHub**, **AWS CodePipeline**, **CodeBuild**, and **Amazon S3** (static website hosting).
 
 ---
 
