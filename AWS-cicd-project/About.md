@@ -1,12 +1,6 @@
-# HTML CI/CD Project 🚀
+# HTML AWS CI/CD Project 🚀
 
 A simple HTML project to demonstrate CI/CD deployment using **GitHub**, **AWS CodePipeline**, **CodeBuild**, and **Amazon S3** (static website hosting) — all within the AWS Free Tier.
-
----
-
-## 🌐 Live Demo
-
-> http://<your-s3-bucket-name>.s3-website-<region>.amazonaws.com
 
 ---
 
@@ -38,7 +32,12 @@ html-cicd-project/
 
 Here's what the pipeline looks like after successful execution:
 
-![CI/CD Success](./assets/pipeline-success.png)
+## CodeBuild
+![CodeBuild](https://github.com/user-attachments/assets/8123d63c-f7f5-45fd-98e4-9441bb398838)
+
+## CI/CD Success
+![CI/CD Success](https://github.com/user-attachments/assets/2944fd2b-4d8e-4adc-b2f4-51a27d458d4d)
+
 
 ---
 
