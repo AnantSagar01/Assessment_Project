@@ -32,10 +32,10 @@ html-cicd-project/
 
 Here's what the pipeline looks like after successful execution:
 
-## CodeBuild
+### CodeBuild
 ![CodeBuild](https://github.com/user-attachments/assets/8123d63c-f7f5-45fd-98e4-9441bb398838)
 
-## CI/CD Success
+### CI/CD Success
 ![CI/CD Success](https://github.com/user-attachments/assets/2944fd2b-4d8e-4adc-b2f4-51a27d458d4d)
 
 
