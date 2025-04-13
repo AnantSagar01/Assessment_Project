@@ -9,7 +9,8 @@ This repository contains a mini-project demonstrating containerization using **D
 
 ### ✅ Docker Build and Run
 
-![Docker Run](./assets/Screenshot%202025-04-13%20215155.png)
+![Docker Run]!(https://github.com/user-attachments/assets/6ef30251-678d-4809-9fe9-8d7672e7af43)
+
 
 ### 🚢 Kubernetes Deployment
 
