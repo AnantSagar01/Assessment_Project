@@ -1,4 +1,4 @@
-
+  
 # 🐳 Docker & Kubernetes - Assessment Project
 
 This repository contains a mini-project demonstrating containerization using **Docker** and orchestration using **Kubernetes**. It is designed for learning and showcasing DevOps practices in a practical and organized manner.
@@ -23,7 +23,7 @@ This repository contains a mini-project demonstrating containerization using **D
 ![K8s Deployment](https://github.com/user-attachments/assets/52283926-4f85-4f64-a9f3-c938d3b313b7)
 
 #### K8s Services
-![K8s Services](https://github.com/user-attachments/assets/edc2d2f6-6fa8-4d90-a5b9-fcce358a9dd1)
+![K8s Services](https://github.com/user-attachments/assets/16cf4895-faac-4cd5-b8c1-556ebbb1c671)
 
 #### K8s Pods
 ![K8s Pods](https://github.com/user-attachments/assets/c2882ee0-a576-48e2-a9b4-3fe8938decaf)
