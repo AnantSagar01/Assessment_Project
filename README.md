@@ -16,7 +16,7 @@ Welcome to the **Assessment Project** repository. This collection showcases a va
 - **Web_Scraping**:  
   Includes scripts and tools for extracting data from websites, utilizing libraries like BeautifulSoup and Scrapy.
 
-> **Note:** Please go through the `About.md` file in each project folder for more detailed information.
+> # **Note:** Please go through the `About.md` file in each project folder for more detailed information.
 
 ## 🛠 Technologies Used
 
