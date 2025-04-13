@@ -9,7 +9,7 @@ This repository contains a mini-project demonstrating containerization using **D
 
 ### ✅ Docker Build and Run
 
-![Docker Run](https://github.com/user-attachments/assets/6ef30251-678d-4809-9fe9-8d7672e7af43)
+![Docker Run](./https://github.com/user-attachments/assets/6ef30251-678d-4809-9fe9-8d7672e7af43)
 ![Docker Hub Repository](https://github.com/user-attachments/assets/83afca58-88fa-4c0e-836b-60ce198e88ce)
 ![Docker Containers UI](https://github.com/user-attachments/assets/6c6a7fe1-1ded-4134-bc02-97d401ba4bc4)
 
