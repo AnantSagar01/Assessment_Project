@@ -20,7 +20,7 @@ Welcome to the **Assessment Project** repository. This collection showcases a va
 
 To explore and run the projects:
 
-> # **Note:** Please go through the `About.md` file in each project folder for more detailed information.
+> # **Note:** Please go through the `README.md` file in each project folder for more detailed information.
 
 ## 🛠 Technologies Used
 
